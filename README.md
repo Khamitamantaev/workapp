@@ -33,3 +33,5 @@ If change prisma.schema file withou migration need push db
 ```
 yarn prisma:push
 ```
+
+[I'm an inline-style link](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0#introduction)
